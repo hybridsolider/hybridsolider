@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @hybridsolider
 - 👀 I’m interested in c++/python
-- 🌱 I’m currently learning japaneese greek arabic swedish c# 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: biedronka/lidl
+- 🌱 I’m currently learning japaneese greek arabic swedish rust
+- 😄 Pronouns: C/C++
 - ⚡ Fun fact: i don't use arch btw
 
 <!---
