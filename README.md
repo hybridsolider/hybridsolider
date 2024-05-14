@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hybridsolider
 - 👀 I’m interested in programing/aviation
-- 🌱 I’m currently learning japaneese greek arabic swedish rust
+- 🌱 I’m currently learning assembly x86_64
 - 😄 Pronouns: C/C++
 - ⚡ Fun fact: i don't use arch btw
 
